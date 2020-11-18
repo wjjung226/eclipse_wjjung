@@ -5,5 +5,6 @@ public class Helloworld {
 		System.out.println("Hello World");
 		System.out.println("정원주");
 		System.out.println("20173156");
+		System.out.println("컴퓨터소프트웨어공학과");
 		}
 }
